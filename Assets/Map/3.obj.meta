@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: ef19d3ce9c1561946b3f63bffb27bbb2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Acacia_Leaves
+    100004: Birch_Fence
+    100006: Block_of_Quartz
+    100008: Bricks
+    100010: Cobblestone
+    100012: Colored_Terracotta
+    100014: Concrete
+    100016: Dirt
+    100018: Grass_Block
+    100020: Oak_Leaves
+    100022: Oak_Log
+    100024: Oak_Planks
+    100026: Red_Mushroom_Block
+    100028: Smooth_Stone
+    100030: Stationary_Water
+    100032: Stone
+    100034: Wool
+    400000: //RootNode
+    400002: Acacia_Leaves
+    400004: Birch_Fence
+    400006: Block_of_Quartz
+    400008: Bricks
+    400010: Cobblestone
+    400012: Colored_Terracotta
+    400014: Concrete
+    400016: Dirt
+    400018: Grass_Block
+    400020: Oak_Leaves
+    400022: Oak_Log
+    400024: Oak_Planks
+    400026: Red_Mushroom_Block
+    400028: Smooth_Stone
+    400030: Stationary_Water
+    400032: Stone
+    400034: Wool
+    2100000: Acacia_Leaves
+    2100002: Birch_Fence
+    2100004: Block_of_Quartz
+    2100006: Bricks
+    2100008: Cobblestone
+    2100010: Colored_Terracotta
+    2100012: Concrete
+    2100014: Dirt
+    2100016: Grass_Block
+    2100018: Oak_Leaves
+    2100020: Oak_Log
+    2100022: Oak_Planks
+    2100024: Red_Mushroom_Block
+    2100026: Smooth_Stone
+    2100028: Stationary_Water
+    2100030: Stone
+    2100032: Wool
+    2300000: Acacia_Leaves
+    2300002: Birch_Fence
+    2300004: Block_of_Quartz
+    2300006: Bricks
+    2300008: Cobblestone
+    2300010: Colored_Terracotta
+    2300012: Concrete
+    2300014: Dirt
+    2300016: Grass_Block
+    2300018: Oak_Leaves
+    2300020: Oak_Log
+    2300022: Oak_Planks
+    2300024: Red_Mushroom_Block
+    2300026: Smooth_Stone
+    2300028: Stationary_Water
+    2300030: Stone
+    2300032: Wool
+    3300000: Acacia_Leaves
+    3300002: Birch_Fence
+    3300004: Block_of_Quartz
+    3300006: Bricks
+    3300008: Cobblestone
+    3300010: Colored_Terracotta
+    3300012: Concrete
+    3300014: Dirt
+    3300016: Grass_Block
+    3300018: Oak_Leaves
+    3300020: Oak_Log
+    3300022: Oak_Planks
+    3300024: Red_Mushroom_Block
+    3300026: Smooth_Stone
+    3300028: Stationary_Water
+    3300030: Stone
+    3300032: Wool
+    4300000: Acacia_Leaves
+    4300002: Birch_Fence
+    4300004: Block_of_Quartz
+    4300006: Bricks
+    4300008: Cobblestone
+    4300010: Colored_Terracotta
+    4300012: Concrete
+    4300014: Dirt
+    4300016: Grass_Block
+    4300018: Oak_Leaves
+    4300020: Oak_Log
+    4300022: Oak_Planks
+    4300024: Red_Mushroom_Block
+    4300026: Smooth_Stone
+    4300028: Stationary_Water
+    4300030: Stone
+    4300032: Wool
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
