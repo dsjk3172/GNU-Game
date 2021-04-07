@@ -24,5 +24,5 @@
 
 
 # 설치
-https://github.com/dsjk3172/GNU-Project/releases/tag/0.1
+https://github.com/dsjk3172/GNU-Project/releases/tag/0.1  
 위의 페이지에서 GNU Adventure을 다운로드 후 경상대 탐험.exe를 실행해주세요
